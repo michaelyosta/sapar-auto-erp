@@ -1,0 +1,17 @@
+node_modules/
+dist/
+dist-server/
+data/
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+*.tsbuildinfo
+.env*
+.tmp*
+cookie.txt
+
+# Internal task planning and research notes
+docs/PLAN.md
+docs/CLIENT_SCOPE.md
+docs/GAUNTLET_AUDIT.md
+docs/REFERENCE_MAP.md
